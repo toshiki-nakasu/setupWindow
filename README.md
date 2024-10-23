@@ -1,5 +1,7 @@
 # README
 
+`applist.yaml`で定義したアプリケーション起動情報を元にWindowsマルチデスクトップでアプリケーションを起動する
+
 ## Step
 
 1. `cp applist.example.yaml applist.yaml`
